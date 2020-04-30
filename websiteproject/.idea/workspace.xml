@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="41f2c1d6-87c9-4280-a95e-1e9e240d0dfb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W4gZmHT1fFyXcyXKMttQbyicyZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\91827\PycharmProjects\websiteproject\webapp\static\images" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="websiteproject" type="Python.DjangoServer" factoryName="Django server">
+      <module name="websiteproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="websiteproject.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41f2c1d6-87c9-4280-a95e-1e9e240d0dfb" name="Default Changelist" comment="" />
+      <created>1578414338765</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578414338765</updated>
+      <workItem from="1578414341976" duration="1076000" />
+      <workItem from="1578415506058" duration="2345000" />
+      <workItem from="1578418569431" duration="745000" />
+      <workItem from="1578419452339" duration="1574000" />
+      <workItem from="1578475606378" duration="152000" />
+      <workItem from="1578491428070" duration="1249000" />
+      <workItem from="1578496079297" duration="20000" />
+      <workItem from="1578496145565" duration="17000" />
+      <workItem from="1578496607472" duration="23000" />
+      <workItem from="1578497086529" duration="99000" />
+      <workItem from="1578636782583" duration="1035000" />
+      <workItem from="1578768262282" duration="58000" />
+      <workItem from="1578770486293" duration="18000" />
+      <workItem from="1578833307858" duration="150000" />
+      <workItem from="1578904920796" duration="255000" />
+      <workItem from="1578914069608" duration="45000" />
+      <workItem from="1586158511201" duration="448000" />
+      <workItem from="1586237582586" duration="131000" />
+      <workItem from="1586933425566" duration="63000" />
+      <workItem from="1587017333468" duration="62000" />
+      <workItem from="1587017837839" duration="69000" />
+      <workItem from="1587017981510" duration="19000" />
+      <workItem from="1587022609091" duration="31000" />
+      <workItem from="1587047586721" duration="39000" />
+      <workItem from="1587209830560" duration="357000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1323" height="157" key="GridCell.Tab.0.bottom" timestamp="1587210190538">
+      <screen x="0" y="67" width="1366" height="661" />
+    </state>
+    <state width="1323" height="180" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1578833462091" />
+    <state width="1323" height="157" key="GridCell.Tab.0.bottom/0.67.1366.661@0.67.1366.661" timestamp="1587210190538" />
+    <state width="1323" height="148" key="GridCell.Tab.0.bottom/0.96.1366.632@0.96.1366.632" timestamp="1578914119059" />
+    <state width="1323" height="157" key="GridCell.Tab.0.center" timestamp="1587210190538">
+      <screen x="0" y="67" width="1366" height="661" />
+    </state>
+    <state width="1323" height="180" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1578833462091" />
+    <state width="1323" height="157" key="GridCell.Tab.0.center/0.67.1366.661@0.67.1366.661" timestamp="1587210190538" />
+    <state width="1323" height="148" key="GridCell.Tab.0.center/0.96.1366.632@0.96.1366.632" timestamp="1578914119059" />
+    <state width="1323" height="157" key="GridCell.Tab.0.left" timestamp="1587210190538">
+      <screen x="0" y="67" width="1366" height="661" />
+    </state>
+    <state width="1323" height="180" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1578833462091" />
+    <state width="1323" height="157" key="GridCell.Tab.0.left/0.67.1366.661@0.67.1366.661" timestamp="1587210190538" />
+    <state width="1323" height="148" key="GridCell.Tab.0.left/0.96.1366.632@0.96.1366.632" timestamp="1578914119059" />
+    <state width="1323" height="157" key="GridCell.Tab.0.right" timestamp="1587210190538">
+      <screen x="0" y="67" width="1366" height="661" />
+    </state>
+    <state width="1323" height="180" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1578833462091" />
+    <state width="1323" height="157" key="GridCell.Tab.0.right/0.67.1366.661@0.67.1366.661" timestamp="1587210190538" />
+    <state width="1323" height="148" key="GridCell.Tab.0.right/0.96.1366.632@0.96.1366.632" timestamp="1578914119059" />
+    <state x="391" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1586237582563">
+      <screen x="0" y="67" width="1366" height="661" />
+    </state>
+    <state x="391" y="240" key="com.intellij.ide.util.TipDialog/0.67.1366.661@0.67.1366.661" timestamp="1586237582563" />
+    <state x="391" y="261" key="com.intellij.ide.util.TipDialog/0.96.1366.632@0.96.1366.632" timestamp="1578914070376" />
+  </component>
+</project>
